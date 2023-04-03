@@ -21,7 +21,13 @@ Atualmente estudando módulo de BackEnd na Trybe, em busca de uma vida melhor pa
 ## Fique a vontade para entrar em contato: 
 <div style='display: inline_block' target='_blank'>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-brandino/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatobrandino@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5514998638124)
+<a href='https://www.linkedin.com/in/paulo-brandino'/>
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+<a href='mailto:contatobrandino@gmail.com'/>
+  <img src='https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png' width="48px" height="48px">
+</a>
+<a href='https://api.whatsapp.com/send?phone=5514998638124'/>
+  <img src='https://cdn.icon-icons.com/icons2/1571/PNG/512/1024881-whatsapp_107716.png' width="48px" height="48px">
+</a>
 </div>
