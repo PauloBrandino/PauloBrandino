@@ -21,7 +21,7 @@ Atualmente estudando módulo de BackEnd na Trybe, em busca de uma vida melhor pa
 <br/>
 
 ## Fique a vontade para entrar em contato: 
-<div style='display: inline_block'>
+<div style='display: inline_block' target='_blank'>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-brandino/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatobrandino@gmail.com)
