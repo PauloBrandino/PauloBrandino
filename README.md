@@ -3,8 +3,7 @@ Apaixonado por tecnologia, empreendedorismo e sempre em busca de aprendizado.
 
 Atualmente estudando módulo de BackEnd na Trybe, em busca de uma vida melhor para minha familia através da programação.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulobrandino&show_icons=true&theme=dracula)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulobrandino&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobrandino&layout=compact)](https://github.com/paulobrandino/github-readme-stats)
 ## Skills:
 
 <div style='display: inline_block'>
