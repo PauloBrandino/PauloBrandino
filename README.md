@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Paulo Brandino
 <br/>
-
 Apaixonado por tecnologia, empreendedorismo e sempre em busca de aprendizado.
 
 Atualmente estudando módulo de BackEnd na Trybe, em busca de uma vida melhor para minha familia através da programação.
